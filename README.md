@@ -1,5 +1,5 @@
 # Network-Topology-Design
-Harry Potter Hogwarts Network Topology
+<h1>Harry Potter Hogwarts Network Topology</h1>
 
 Project Desc:
 Designed and implemented a multi-segmented enterprise network topology using PacketTracer. The project featured logical segmentation (e.g., departments like "Hogwarts," "Ministry," etc.), inter-router communication, and IP routing to emulate real-world infrastructure. This design emphasized network security best practices, including segmentation for threat containment, routing path control, and monitoring-ready architecture. Demonstrated practical skills in secure network design, traffic flow analysis, and foundational cybersecurity principles such as Zero Trust and resilience against lateral movement.
